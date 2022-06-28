@@ -1,4 +1,6 @@
 # Password Generator Starter Code
+PICS IN README FOLDER
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 The program takes in the requested criteria, lowercase, uppercase, numbers and special characters to build it.
 It begins by asking a series of questions answered with y or n, any other answer than y will default to not using that criteria.
 
