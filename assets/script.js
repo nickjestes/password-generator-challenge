@@ -47,7 +47,7 @@ function writePassword() {
     passwordLength = 8;
   }
 
-  for (var i = 0; i <= passwordLength -1; i++) {
+  for (var i = 0; i <= passwordLength-1; i++) {
     let randomNumber = charsList[Math.floor(Math.random() * charsList.length)];
     password.value = password.value + randomNumber;
   }
